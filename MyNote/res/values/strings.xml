@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logo_text">Logo de l\'application</string>
+    <string name="note_create">Créer une note</string>
+    <string name="note_display">Afficher les notes</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="new_enr">Commencer l\'enregistremennt</string>
+
+</resources>
